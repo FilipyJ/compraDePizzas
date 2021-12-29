@@ -1,6 +1,8 @@
 <div>
 
-<em> Forma de Acesso ao Projeto: 👉 </em>  <a href="https://filipyj.github.io/compraDePizzas/" target="_blank"><strong> Compra de Pizzas </strong> </a>
+<em> Forma de Acesso ao Projeto: 👉 </em>  <a href="https://filipyj.github.io/compraDePizzas/" target="_blank"><strong> Compra de Pizzas 
+                                            <a href="xyz.html" target="_blank"> Link </a>
+</strong> </a>
 
 </div>
 
