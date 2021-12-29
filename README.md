@@ -1,5 +1,5 @@
 
-<em> Forma de Acesso ao Projeto: </em>  <a href="https://filipyj.github.io/compraDePizzas/">Projeto de Pizzas</a>
+<em> Forma de Acesso ao Projeto: </em>  <a href="https://filipyj.github.io/compraDePizzas/">Compra de Pizzas</a>
 
 
 <div> 
